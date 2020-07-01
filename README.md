@@ -18,6 +18,8 @@ Teachers can create content before online class as text.Three ways to input text
 Once content created teacher can save this and use at any time
 
 During Online class Teacher can select the "TextToSpeech" Section, the pre-entered content will be there. On clicking the Voice button entire Text will be read. It is also possible to select a particular part by copying needed text from Content and Pasting it on the small text box below
+
+Teacher Can change Country,Pitch rate and Speed In the settings
 <p><img src="https://teacha.xyz/images/1.png" width="250" alt="" />
     <img src="https://teacha.xyz/images/2.png" width="250" alt="" />
     <img src="https://teacha.xyz/images/3.png" width="250" alt="" /><br>
