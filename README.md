@@ -6,7 +6,7 @@ or https://zen-mcclintock-b46aae.netlify.app
 
 Our teachers are facing a great issue during Covid-19, Most of the schools started online classes and in most cases, a single teacher wants to spend many hours for different classes. Speaking too much time they will be tired.So.. 
 
-Introducing Teacha an android app which helps teachers to type content and convert text to speech
+Introducing <b>Teacha</b> an android app which helps teachers to type content and convert text to speech
 Teachers can create content before online class as text.Three ways to input text
 
     Manual typing
