@@ -1,4 +1,4 @@
-# HackinIndia
+# HackinIndia :Techa App
 Product Page:https://teacha.xyz/
 or https://zen-mcclintock-b46aae.netlify.app
 
