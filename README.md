@@ -2,7 +2,7 @@
 Product Page:https://teacha.xyz/
 or https://zen-mcclintock-b46aae.netlify.app
 
-<b>Apk demo file is available on the File section <a href="https://github.com/dontech09/hackinindia/find/master">here</a></b>
+<b>Apk demo file is available on the File section <a href="https://github.com/dontech09/hackinindia/find/master">here</a></b><BR>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 Our teachers are facing a great issue during Covid-19, Most of the schools started online classes and in most cases, a single teacher wants to spend many hours for different classes. Speaking too much time they will be tired.So.. 
